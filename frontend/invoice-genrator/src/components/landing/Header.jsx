@@ -32,7 +32,7 @@ const Header = () => {
                     <div className="flex items-center space-x-3">
                         <FileText className="w-8 h-8 text-blue-600" />
                         <div>
-                            <span className="text-color-black font-bold">AI Invoice App</span>
+                            <span className="text-color-black font-extrabold">AI Invoice App</span>
                         </div>
                     </div>
 
