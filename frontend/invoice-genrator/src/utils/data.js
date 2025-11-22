@@ -73,4 +73,5 @@ export const FAQS =[
         question:"How does billing work?",
         answer:"Billing is the process by which a business generates and sends an invoice to a customer for goods or services provided, requesting payment"
     }
+    
 ]
